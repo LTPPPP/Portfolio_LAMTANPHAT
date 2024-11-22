@@ -131,6 +131,10 @@ h6 {
   min-width: 200px;
 }
 
+.hero-container{
+  justify-items: center;
+}
+
 @media (max-width: 1199px) {
   .header {
     background-color: var(--background-color);
