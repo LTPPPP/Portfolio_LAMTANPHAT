@@ -1477,3 +1477,18 @@ section,
   background-size: 200% 200%;
   animation: changeGradient 5s infinite;
 }
+
+.skills-content{
+  font-size: 1.2rem;
+}
+
+
+@media screen and (max-width: 768px) {
+
+  .skills-content{
+    justify-content: center;
+      justify-items: center;
+      text-align: center;
+  }
+  
+}
