@@ -1459,6 +1459,7 @@ section,
 .bounce {
   animation: bounce 2s infinite;
 }
+
 @keyframes changeGradient {
   0% {
     background-position: 0% 50%;
